@@ -1,16 +1,13 @@
-### Hi there 👋
+I am a PhD candidate studying seismology and infrasound at the
+[University of Alaska Fairbanks (UAF)](https://www.uaf.edu/uaf/).
 
-<!--
-**liamtoney/liamtoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At UAF, I am affiliated with the
+[Geophysical Institute](https://www.gi.alaska.edu/)'s
+[Alaska Volcano Observatory](https://avo.alaska.edu/) and
+[Wilson Alaska Technical Center](https://watc.alaska.edu/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work part-time for the
+[U.S. Geological Survey Geologic Hazards Science Center](https://www.usgs.gov/centers/geologic-hazards-science-center)
+on science related to the
+[Landslide Hazards Program](https://www.usgs.gov/programs/landslide-hazards)
+mission.
