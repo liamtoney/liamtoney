@@ -13,3 +13,8 @@
 on science related to the
 [Landslide Hazards Program](https://www.usgs.gov/programs/landslide-hazards)
 mission.
+
+🔈 In my free time, I like to
+[make music with electronics](https://youtu.be/zhl-Cs1-sG4?t=110). I'm
+inspired by the intersection of geophysical signals and audible sound — check
+out [_sonify_](https://github.com/liamtoney/sonify) for one manifestation of this!
